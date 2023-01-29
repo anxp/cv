@@ -190,6 +190,7 @@ a {
     font-size: inherit;
     color: blue;
     display:inline-block;
+    text-decoration: none;
 }
 
 a:hover {
@@ -198,13 +199,6 @@ a:hover {
     color: deeppink;
     display:inline-block;
     transform: scale(1.1, 1.2);
-}
-
-a:visited {
-    font-family: inherit;
-    font-size: inherit;
-    color: blueviolet;
-    display:inline-block;
 }
 
 p.bold {
